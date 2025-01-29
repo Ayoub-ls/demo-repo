@@ -2,6 +2,6 @@
 
 some discription
 
-'''javaScript
-console.log('hey bro')
-'''
+```javaScript
+    console.log('hey bro')
+```
